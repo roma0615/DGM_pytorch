@@ -10,6 +10,7 @@ __pycache__/
 tb_logs/
 lightning_logs/
 wandb/
+logs/
 
 #Keops related generate files
 CMakeCache.txt
